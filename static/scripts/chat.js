@@ -92,7 +92,7 @@ function sendButton() {
 }
 
 function heartButton() {
-    buttonSendText("Heart clicked!")
+    buttonSendText("LIke")
 }
 
 // Press enter to send a message
